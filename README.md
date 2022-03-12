@@ -1,5 +1,5 @@
 # META
-## Scraped product data for swimoutlet[dot]com
+## Scraped product data from swimoutlet[dot]com
 
 I couldn't find a good webscraper for ripping content to create a dataset for a project involving fashion and models. Ripping with [my other `nsfw` project (wsnx)](https://github.com/dove-zp/package.wsnx) ended up being too risky, so I decided to create my own tool to collect data at the source. This repository contains data collections that I've personally scraped and organized. 
 
